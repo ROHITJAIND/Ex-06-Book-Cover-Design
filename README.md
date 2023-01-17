@@ -7,7 +7,7 @@ To develop a website to display the cover page design of a book
     Write HTML and CSS Code for designing book cover page and execute them.  
 
 # Code:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -125,11 +125,14 @@ To develop a website to display the cover page design of a book
         </div>
     </body>
 </html>
-'''  
+```  
 
 # Output:  
+![Screenshot from 2023-01-17 08-15-10](https://user-images.githubusercontent.com/118707073/212970484-0b15811b-f5d3-44dc-bf92-7425064a04a5.png)
 
-# HTML Validator:
+# HTML Validator:  
+![Screenshot from 2023-01-17 08-16-40](https://user-images.githubusercontent.com/118707073/212970518-84ba5270-8619-47c3-bb34-6a3dcab85142.png)
+
 
 # Result:  
-    The program for designing book cover page using HTML and CSS is executed successfully.
+The program for designing book cover page using HTML and CSS is executed successfully.
